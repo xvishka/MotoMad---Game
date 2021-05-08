@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Moto Mad</string>
+    <string name="identify_car_make_btn">Identify the Car Make</string>
+    <string name="hints_btn">Hints</string>
+    <string name="identify_car_image_btn">Identify the Car Image</string>
+    <string name="advanced_level_btn">Advanced Level</string>
+    <string name="car_image">car image</string>
+    <string name="identify_btn">Identify</string>
+    <string name="display_message">TextView</string>
+    <string name="submit">Submit</string>
+    <string name="dash_text">------</string>
+    <string name="your_answer">Your Answer</string>
+    <string name="correct_answer">Correct Answer</string>
+    <string name="image_1">image_1</string>
+    <string name="image_2">image_2</string>
+    <string name="image_3">image_3</string>
+    <string name="next_btn">Next</string>
+    <string name="car_brand">TextView</string>
+    <string name="score_0">Score : 0</string>
+    <string name="submitBtn">Submit</string>
+    <string name="carMake">TextView</string>
+    <string name="statusMsg">TextView</string>
+    <string name="enter_characters">Enter characters</string>
+    <string-array name="spinner_items">
+        <item>Toyota</item>
+        <item>Honda</item>
+        <item>Nissan</item>
+        <item>Ford</item>
+        <item>Porsche</item>
+        <item>McLaren</item>
+    </string-array>
+
+    <string-array name="checked_items">
+        <item>Toyota</item>
+        <item>Toyota</item>
+        <item>Toyota</item>
+        <item>Toyota</item>
+        <item>Toyota</item>
+        <item>Nissan</item>
+        <item>Nissan</item>
+        <item>Nissan</item>
+        <item>Nissan</item>
+        <item>Nissan</item>
+        <item>Honda</item>
+        <item>Honda</item>
+        <item>Honda</item>
+        <item>Honda</item>
+        <item>Honda</item>
+        <item>Ford</item>
+        <item>Ford</item>
+        <item>Ford</item>
+        <item>Ford</item>
+        <item>Ford</item>
+        <item>Porsche</item>
+        <item>Porsche</item>
+        <item>Porsche</item>
+        <item>Porsche</item>
+        <item>Porsche</item>
+        <item>McLaren</item>
+        <item>McLaren</item>
+        <item>McLaren</item>
+        <item>McLaren</item>
+        <item>McLaren</item>
+
+    </string-array>
+</resources>
